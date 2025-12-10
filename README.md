@@ -1,6 +1,6 @@
 ## About me 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML Engineer & Backend Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=ML+Engineer+%26+Backend+Developer" alt="Typing SVG" /></a>
 
 I'm an ML Engineer & Backend Developer with strong experience in analytics and Aftersales solutions.
 I combine data science, AI, and backend engineering to turn complex business data into scalable applications and practical insights.
