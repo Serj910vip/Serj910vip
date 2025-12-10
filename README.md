@@ -4,17 +4,16 @@
 
 I'm an ML Engineer & Backend Developer with strong experience in analytics and Aftersales solutions.
 I combine data science, AI, and backend engineering to turn complex business data into scalable applications and practical insights.
-
+***
 
 ## Contacts
 Telegram: https://t.me/Seriozha_I
+***
 
 ## 🎓 Education
-
----
+***
 
 ## 🧠 Core ML & Data Stack
-
 Languages:
 Python
 
@@ -23,8 +22,6 @@ PyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, LangChain, LangGraph,
 
 Data / Analytics:
 Pandas, NumPy, SciPy, Plotly, Matplotlib, feature engineering, time series, model evaluation.
-
----
 ***
 
 ## 🛠 Backend & Infrastructure
@@ -33,7 +30,7 @@ Backend frameworks:
 FastAPI, Django REST Framework, Flask
 
 Databases:
-PostgreSQL, MySQL, Redis, Neo4j
+PostgreSQL, MySQL, Redis
 Vector DBs: Chroma, PGVector, Milvus, Qdrant
 
 Messaging & async:
@@ -41,14 +38,14 @@ RabbitMQ, Celery, Flower
 
 DevOps / Tools:
 Docker, Nginx, Git, CI/CD pipelines
-
+***
 
 ## 💻 Additional Skills
 Frontend:
-React, Tailwind, HTML/CSS
+React, HTML/CSS
 
 Operating systems:
-macOS, Windows
+macOS, Windows, Linux
 
 Tools & environments:
 Jupyter, VS Code, Cursor, Claude code, Codex, CVAT
