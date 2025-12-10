@@ -11,6 +11,8 @@ Telegram: https://t.me/Seriozha_I
 
 ## 🎓 Education
 
+---
+
 ## 🧠 Core ML & Data Stack
 
 Languages:
@@ -22,6 +24,8 @@ PyTorch, scikit-learn, CatBoost, LightGBM, XGBoost, ARIMA, LangChain, LangGraph,
 Data / Analytics:
 Pandas, NumPy, SciPy, Plotly, Matplotlib, feature engineering, time series, model evaluation.
 
+---
+***
 
 ## 🛠 Backend & Infrastructure
 
